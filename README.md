@@ -1,8 +1,8 @@
 - 👋 Hi, He is Abraham Preciado (@preciado04)
-- 👀 Abraham is interested in all open source stuff, such as Linux, PHP, Drupal, Bootstrap, Docker and some other technologies.
+- 👀 Abraham is interested in all open source stuff, such as Linux, PHP, Drupal, Bootstrap, Docker and some     other technologies.
 - 🌱 He is currently learning Node JS and Python.
 - 💞️ Abraam is looking to collaborate on any open source project, like Drupal. In fact he has been already contributed a module on
-     Drupal community. This module is Font Awesome Icon Field (https://www.drupal.org/project/fontawesome_icon)
+         Drupal community. This module is Font Awesome Icon Field (https://www.drupal.org/project/fontawesome_icon)
 - 📫 How to reach me preciado0425@gmail.com
 
 <!---
